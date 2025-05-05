@@ -58,3 +58,6 @@ body{
     padding: 10px;
     justify-content: left;
 }
+p{
+    font-family: "Roboto", sans-serif;
+}
